@@ -3,7 +3,7 @@ using namespace std;
 int main()
 
 /* Program to find an integer is positive,
-   negative or zero. Nested if...else statement */
+   negative or zero. Using nested if...else statement */
 {
     int num;
     cout <<"Enter an integer: ";
