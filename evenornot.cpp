@@ -3,6 +3,7 @@ using namespace std;
 int main()
 
 //program to check nos. is even or not
+//using if...else statement
 {
     int n;
     cout <<"Enter an Integer: ";
